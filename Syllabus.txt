@@ -1,0 +1,29 @@
+My 30 Days Deep Learning Syllabus for Product based Companies
+(Amazon,Apple,Google,Oracle).
+Day-1:
+Various Problems on Arrays
+
+Day-2:
+Stack and Queue 
+
+Day-3-5:
+Trees-->BinaryTree,BinarySearch Tree,Heap
+
+Day-6-9:
+Collections FrameWork-> List Interface,SetInterface
+
+Day 10-11:
+Graphs-->BFS,DFS
+
+Day 12-16:
+Dynamic Programming
+
+Day 17-21:
+Recursion and backTracking:
+
+Day 21-24:
+Divide and Conquer:
+
+Day 24-30:
+Brush up everything till Day1-24.
+
