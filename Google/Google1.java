@@ -2,7 +2,8 @@ package Google;
 
 public class Google1 {
    
-    public static void main(String[] args)  {
+    
+	public static void main(String[] args)  {
        
       
             int out_ = solve("prprprrp", 7, 10);
