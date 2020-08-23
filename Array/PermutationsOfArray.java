@@ -1,8 +1,10 @@
 package Array;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 import java.util.Scanner;
+import java.util.stream.Collectors;
 
 public class PermutationsOfArray {
 
@@ -23,10 +25,7 @@ public class PermutationsOfArray {
 	{
 		if(i==arr.length-1)
 		{
-			List<Integer> p=new ArrayList<>();
-			for(int a : arr)
-				p.add(a);
-			
+			List<Integer> p=Arrays.stream(arr).boxed().collect(Collectors.toList());
 			res.add(p);
 		}
 		else
